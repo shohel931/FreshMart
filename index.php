@@ -40,7 +40,11 @@
 
 <footer id="footer">
     <div class="footer">
-        <div class="footer_box"></div>
+        <div class="footer_box">
+            <div class="support">
+                
+            </div>
+        </div>
         <div class="footer_box"></div>
         <div class="footer_box"></div>
         <div class="footer_box"></div>

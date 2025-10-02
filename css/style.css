@@ -63,3 +63,8 @@ body {
 .cart_icon ul li a:hover {
     color: #ccc;
 }
+
+/* Footer */
+#footer {
+    background: #081621;
+}
