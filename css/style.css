@@ -60,3 +60,6 @@ body {
     color: #fff;
     font-size: 18px;
 }
+.cart_icon ul li a:hover {
+    color: #ccc;
+}

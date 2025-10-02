@@ -12,7 +12,7 @@
 <header id="header">
     <div class="header">
         <div class="logo">
-            <a href="#">Fresh<span>Mart</span></a>
+            <a href="index.php">Fresh<span>Mart</span></a>
         </div>
         <div class="search">
            <form method="">
@@ -22,9 +22,9 @@
         </div>
         <div class="cart_icon">
             <ul>
-                <li><a href="#"><i class="fa-regular fa-heart"></i></a></li>
-                <li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-                <li><a href="#"><i class="fa-solid fa-user"></i></a></li>
+                <li><a title="Favorite" href="#"><i class="fa-regular fa-heart"></i></a></li>
+                <li><a title="Cart" href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+                <li><a title="Account" href="#"><i class="fa-solid fa-user"></i></a></li>
             </ul>
         </div>
     </div>
