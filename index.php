@@ -6,6 +6,14 @@
     <title>Home - FreshMart</title>
 </head>
 <body>
+
+<header>
+    <div class="header">
+        <div class="logo">
+            <a href="#"><img src="" alt="">Fresh<span>Mart</span></a>
+        </div>
+    </div>
+</header>
     
 </body>
 </html>
