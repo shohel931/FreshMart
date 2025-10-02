@@ -38,7 +38,58 @@
 </section>
 
 
-
+<section class="futer_catagory">
+    <div class="catagory">
+        <div class="catagory_box">
+            <a href="#">
+                <img src="" alt="">
+                <h5>Catagory</h5>
+            </a>
+        </div>
+        <div class="catagory_box">
+            <a href="#">
+                <img src="" alt="">
+                <h5>Catagory</h5>
+            </a>
+        </div>
+        <div class="catagory_box">
+            <a href="#">
+                <img src="" alt="">
+                <h5>Catagory</h5>
+            </a>
+        </div>
+        <div class="catagory_box">
+            <a href="#">
+                <img src="" alt="">
+                <h5>Catagory</h5>
+            </a>
+        </div>
+        <div class="catagory_box">
+            <a href="#">
+                <img src="" alt="">
+                <h5>Catagory</h5>
+            </a>
+        </div>
+        <div class="catagory_box">
+            <a href="#">
+                <img src="" alt="">
+                <h5>Catagory</h5>
+            </a>
+        </div>
+        <div class="catagory_box">
+            <a href="#">
+                <img src="" alt="">
+                <h5>Catagory</h5>
+            </a>
+        </div>
+        <div class="catagory_box">
+            <a href="#">
+                <img src="" alt="">
+                <h5>Catagory</h5>
+            </a>
+        </div>
+    </div>
+</section>
 
 
 
