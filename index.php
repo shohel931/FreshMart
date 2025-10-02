@@ -17,7 +17,7 @@
         <div class="search">
            <form method="">
             <input type="search" name="search" id="" placeholder="Search Products" required>
-            <input type="submit" value="Search">
+            <button><i class="fa-solid fa-magnifying-glass"></i></button>
            </form>
         </div>
         <div class="cart_icon">
