@@ -12,6 +12,11 @@
         <div class="logo">
             <a href="#"><img src="" alt="">Fresh<span>Mart</span></a>
         </div>
+        <div class="search">
+           <form method="">
+            <input type="search" name="search" id="" placeholder="Search Products">
+           </form>
+        </div>
     </div>
 </header>
     
