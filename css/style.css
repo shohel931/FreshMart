@@ -8,3 +8,19 @@
 body {
     background-color: #f1f2f6;
 }
+
+/* Header */
+#header {
+    background-color: #081621;
+}
+#header .header {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+.cart_icon ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
