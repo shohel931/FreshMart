@@ -64,6 +64,60 @@ body {
     color: #ccc;
 }
 
+
+
+/* Catagory Box */
+.futer_catagory {
+    width: 100%;
+}
+.futer_catagory .catagory {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.futer_catagory .catagory .catagory_box {
+    width: 120px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px #ccc;
+    transition: 0.6s;
+    text-align: center;
+}
+.futer_catagory .catagory .catagory_box:hover {
+    margin-top: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Footer */
 #footer {
     background: #081621;
