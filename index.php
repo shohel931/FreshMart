@@ -30,7 +30,12 @@
     </div>
 </header>
 
-
+<section id="slider">
+    <div class="slide"></div>
+    <div class="slide"></div>
+    <div class="slide"></div>
+    <div class="slide"></div>
+</section>
 
 
 
@@ -42,7 +47,7 @@
     <div class="footer">
         <div class="footer_box">
             <div class="support">
-                
+
             </div>
         </div>
         <div class="footer_box"></div>
