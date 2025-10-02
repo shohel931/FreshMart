@@ -29,6 +29,23 @@
         </div>
     </div>
 </header>
+
+
+
+
+
+
+
+
+
+<footer id="footer">
+    <div class="footer">
+        <div class="footer_box"></div>
+        <div class="footer_box"></div>
+        <div class="footer_box"></div>
+        <div class="footer_box"></div>
+    </div>
+</footer>
     
 </body>
 </html>
