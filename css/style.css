@@ -18,7 +18,23 @@ body {
     justify-content: space-around;
     padding: 10px 0;
 }
-
+#header .header .logo a { 
+    color: rgb(213, 233, 209);
+    font-size: 20px;
+}
+#header .header .logo a span { 
+    color:orange;
+}
+.search input[type="search"] {
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+    color: #232323;
+    outline: none;
+    border-radius: 5px;
+    width: 250px;
+    box-shadow: 1px 1px 5px #ddd;
+}
 .cart_icon ul {
     display: flex;
     justify-content: center;

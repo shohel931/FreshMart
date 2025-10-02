@@ -12,7 +12,7 @@
 <header id="header">
     <div class="header">
         <div class="logo">
-            <a href="#"><img src="" alt="">Fresh<span>Mart</span></a>
+            <a href="#">Fresh<span>Mart</span></a>
         </div>
         <div class="search">
            <form method="">
