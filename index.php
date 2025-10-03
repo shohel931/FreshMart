@@ -51,7 +51,26 @@
     </form>
 </section>
 
-
+<section id="navbar">
+    <div class="navbar">
+        <ul>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+        </ul>
+    </div>
+</section>
 
 
 
