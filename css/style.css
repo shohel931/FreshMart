@@ -78,8 +78,7 @@ body {
     background: #fff;
     width: 100%;
     padding: 10px;
-    display: flex;
-    justify-content: center;
+    display: none;
 }
 #search_area form {
     width: 90%;
@@ -95,6 +94,26 @@ body {
     background: #fff;
     border: 1px solid #ddd;
 }
+
+#navbar {
+    background: #f1f2f6;
+    width: 250px;
+    height: 90vh;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+#navbar .navbar ul {
+    
+}
+#navbar .navbar ul li a {
+    padding: 10px 0;
+}
+
+
+
+
+
+
 
 
 /* Catagory Box */
@@ -144,17 +163,11 @@ body {
   .header2 {
     display: none;
   }
-  #search_area {
-    display: none;
-  }
 }
 
 /* Laptop (992px to 1199px) */
 @media (min-width: 992px) and (max-width: 1199px) {
   .header2 {
-    display: none;
-  }
-  #search_area {
     display: none;
   }
 }
@@ -165,9 +178,6 @@ body {
   .header1 {
     display: none;
   }
-  #search_area {
-    display: none;
-  }
   #search_area.active {
     display: block;
 }
@@ -176,9 +186,6 @@ body {
 /* Mobile (up to 767px) */
 @media (max-width: 767px) {
   .header1 {
-    display: none;
-  }
-  #search_area {
     display: none;
   }
   #search_area.active {
