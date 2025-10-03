@@ -44,6 +44,20 @@
     </div>
 </header>
 
+<section id="search_area">
+    <form method="">
+            <input type="search" name="search" id="" placeholder="Search Products" required>
+            <button><i class="fa-solid fa-magnifying-glass"></i></button>
+    </form>
+</section>
+
+
+
+
+
+
+
+
 <section id="slider">
     <div class="slide"></div>
     <div class="slide"></div>
@@ -120,5 +134,6 @@
     </div>
 </footer>
     
+<script src="./js/script.js"></script>
 </body>
 </html>
