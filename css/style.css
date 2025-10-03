@@ -26,6 +26,14 @@ body {
 #header .header .logo a span { 
     color:orange;
 }
+.header2 .header button {
+    background: none;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    padding: 0 10px;
+}
 .search input[type="search"] {
     padding: 10px;
     background: #f1f2f6;
@@ -108,6 +116,33 @@ body {
 
 
 
+/* Desktop Large (1200px and up) */
+@media (min-width: 1200px) {
+  .header2 {
+    display: none;
+  }
+}
+
+/* Laptop (992px to 1199px) */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .header2 {
+    display: none;
+  }
+}
+
+/* Tablet (768px to 991px) */
+@media (min-width: 768px) and (max-width: 991px) {
+  .header1 {
+    display: none;
+  }
+}
+
+/* Mobile (up to 767px) */
+@media (max-width: 767px) {
+  .header1 {
+    display: none;
+  }
+}
 
 
 

@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<header id="header">
+<header class="header1" id="header">
     <div class="header">
         <div class="logo">
             <a href="index.php">Fresh<span>Mart</span></a>
@@ -26,6 +26,20 @@
                 <li><a title="Cart" href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
                 <li><a title="Account" href="#"><i class="fa-solid fa-user"></i></a></li>
             </ul>
+        </div>
+    </div>
+</header>
+<header class="header2" id="header">
+    <div class="header" style="justify-content: space-between; 
+    align-items: center;">
+        <div class="nav">
+            <button><i class="fa-solid fa-bars"></i></button>
+        </div>
+        <div class="logo">
+            <a href="index.php">Fresh<span>Mart</span></a>
+        </div>
+        <div class="cart_icon">
+            <button><i class="fa-solid fa-magnifying-glass"></i></button>
         </div>
     </div>
 </header>
