@@ -39,7 +39,7 @@
             <a href="index.php">Fresh<span>Mart</span></a>
         </div>
         <div class="cart_icon">
-            <button><i class="fa-solid fa-magnifying-glass"></i></button>
+            <button id="search_btn"><i class="fa-solid fa-magnifying-glass"></i></button>
         </div>
     </div>
 </header>

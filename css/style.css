@@ -78,8 +78,6 @@ body {
     background: #fff;
     width: 100%;
     padding: 10px;
-    display: flex;
-    justify-content: center;
 }
 #search_area form {
     width: 90%;
@@ -165,6 +163,12 @@ body {
   .header1 {
     display: none;
   }
+  #search_area {
+    display: none;
+  }
+  #search_area.active {
+    display: block;
+}
 }
 
 /* Mobile (up to 767px) */
@@ -172,6 +176,12 @@ body {
   .header1 {
     display: none;
   }
+  #search_area {
+    display: none;
+  }
+  #search_area.active {
+    display: block;
+}
 }
 
 
