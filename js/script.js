@@ -6,3 +6,5 @@ document.getElementById("search_btn").addEventListener("click", function (e) {
 
 // Sidebar
 const sidebarBtn = document.getElementById('sidebar_btn');
+const sidebar = document.getElementById('sidebar');
+const overlay = document.getElementById('overlay');
