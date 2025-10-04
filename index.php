@@ -33,24 +33,7 @@
     <div class="header" style="justify-content: space-between; 
     align-items: center;">
         <div class="nav">
-            <button><i class="fa-solid fa-bars"></i></button>
-            <ul>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-        </ul>
-    </div>
+            <button id="sidebar_btn"><i class="fa-solid fa-bars"></i></button>
         </div>
         <div class="logo">
             <a href="index.php">Fresh<span>Mart</span></a>
@@ -68,6 +51,25 @@
     </form>
 </section>
 
+    <div class="sidebar" id="sidebar">
+        <ul>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+        </ul>
+    </div>
+    <div class="overlay" id="overlay"></div>
 
 
 
