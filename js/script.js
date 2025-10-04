@@ -8,3 +8,13 @@ document.getElementById("search_btn").addEventListener("click", function (e) {
 const sidebarBtn = document.getElementById('sidebar_btn');
 const sidebar = document.getElementById('sidebar');
 const overlay = document.getElementById('overlay');
+
+sidebarBtn.addEventListener('click', () => {
+    sidebar.classList.toggle('active');
+    overlay.classList.toggle('active');
+});
+
+overlay.addEventListener('click', () => {
+    sidebar.classList.remove('active');
+    overlay.classList.remove('active');
+});
