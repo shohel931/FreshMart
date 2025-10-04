@@ -34,6 +34,23 @@
     align-items: center;">
         <div class="nav">
             <button><i class="fa-solid fa-bars"></i></button>
+            <ul>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+            <li><a href="#">Catagory</a></li>
+        </ul>
+    </div>
         </div>
         <div class="logo">
             <a href="index.php">Fresh<span>Mart</span></a>
@@ -51,26 +68,6 @@
     </form>
 </section>
 
-<section id="navbar">
-    <div class="navbar">
-        <ul>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-            <li><a href="#">Catagory</a></li>
-        </ul>
-    </div>
-</section>
 
 
 
